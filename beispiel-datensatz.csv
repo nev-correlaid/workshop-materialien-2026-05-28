@@ -1,0 +1,104 @@
+Name,Alter,Geschlecht,Email,Adresse,PLZ,Stadt,Bildungsabschluss,Erster Kontakt mit Organisation,Weiterempfehlung,Erneute Teilnahme,Austausch nach Programmende,Zufriedenheit Organisation,Zufriedenheit Zuteilung,Meiste Freude,Ein Wort
+Peter Demir,16,männlich,peter.demir@example.com,Sonnenallee 12,12045,Berlin,Mittlere Reife,ja,auf jeden Fall,"ja, als Mentee",ja,9,10,neue Menschen kennenzulernen,inspirierend
+Samir Yilmaz,18,männlich,samir.yilmaz@example.com,Kantstraße 44,10625,berlin,Abitur,nein,eher ja,"ja, als Mentor",ja,8,9,gemeinsame Aktivitäten,motivierend
+Lea Hassan,15,weiblich,lea.hassan@example.com,Hafenweg 7,45127,Essen,Hauptschulabschluss,ja,auf jeden Fall,"ja, als Mentee",ja,10,9,neue Fertigkeiten zu lernen,stärkend
+Deniz Kara,20,männlich,deniz.kara@example.com,Marktplatz 21,44135,Dortmund,Fachabitur,nein,auf jeden Fall,"ja, als Mentor",ja,9,10,gemeinsames Lernen,hilfreich
+Mina Özdemir,17,weiblich,mina.oezdemir@example.com,Lindenstraße 9,50667,Köln,Mittlere Reife,ja,eher ja,"ja, als Mentee",nein,8,8,neue Dinge auszuprobieren,spannend
+Yusuf Arslan,19,männlich,yusuf.arslan@example.com,Bergweg 5,20095,Hamburg,Abitur,nein,auf jeden Fall,"ja, als Mentor",ja,10,10,gemeinsame Aktivitäten,bereichernd
+Sara Mert,14,weiblich,sara.mert@example.com,Goethestraße 31,60311,Frankfurt am Main,Noch kein Abschluss,ja,auf jeden Fall,"ja, als Mentee",ja,9,9,neue Menschen kennenzulernen,ermutigend
+Can Polat,21,männlich,can.polat@example.com,Hauptstraße 18,90402,Nürnberg,Bachelor,nein,eher ja,nein,nein,7,8,gemeinsames Lernen,wertvoll
+Amira Said,16,divers,amira.said@example.com,Schillerweg 14,28195,Bremen,Mittlere Reife,ja,auf jeden Fall,"ja, als Mentee",ja,10,9,neue Fertigkeiten zu lernen,familiär
+Paula Frantz,18,weiblich,paula.frantz@example.com,Ringstraße 3,70173,Stuttgart,Fachabitur,nein,eher ja,"ja, als Mentor",ja,8,8,gemeinsame Aktivitäten,positiv
+Nora Celik,17,weiblich,nora.celik@example.com,Parkallee 27,30159,Hannover,Mittlere Reife,ja,auf jeden Fall,"ja, als Mentee",ja,9,10,neue Menschen kennenzulernen,offen
+Ali Sahin,15,männlich,ali.sahin@example.com,Mühlenweg 6,1067,Dresden,Noch kein Abschluss,ja,eher ja,"ja, als Mentee",nein,8,7,neue Dinge auszuprobieren,cool
+Noah Noor,20,männlich,noah.noor@example.com,Bahnhofstraße 42,4109,Leipzig,Abitur,nein,auf jeden Fall,"ja, als Mentor",ja,10,10,gemeinsames Lernen,transformierend
+Annika Peters,19,weiblich,annika.peters@example.com,Wiesenstraße 11,80331,München,Fachabitur,nein,eher ja,"ja, als Mentor",ja,8,9,gemeinsame Aktivitäten,fördernd
+Tim Strup,14,männlich,tim.strup@example.com,Ahornweg 2,47051,Duisburg,Noch kein Abschluss,ja,auf jeden Fall,"ja, als Mentee",ja,10,10,neue Fertigkeiten zu lernen,vertrauensvoll
+Bilal Kurt,17,männlich,bilal.kurt@example.com,Schulstraße 19,39104,Magdeburg,Mittlere Reife,ja,eher ja,"ja, als Mentee",ja,7,8,gemeinsame Aktivitäten,freundlich
+Esra Yaman,18,weiblich,esra.yaman@example.com,Feldstraße 8,18055,Rostock,Abitur,nein,auf jeden Fall,"ja, als Mentor",ja,9,9,gemeinsames Lernen,ermutigend
+Elsa Wunder,21,weiblich,elsa.wunder@example.com,Waldweg 33,79098,Freiburg,Bachelor,nein,eher nein,nein,nein,5,6,neue Menschen kennenzulernen,durchwachsen
+Michael Merkle,16,männlich,michael.merkle@example.com,Rosenstraße 15,53111,Bonn,Mittlere Reife,ja,auf jeden Fall,"ja, als Mentee",ja,10,10,neue Dinge auszuprobieren,lebendig
+Maja Biene,20,weiblich,maja.biene@example.com,Kirchweg 25,24103,Kiel,Abitur,nein,auf jeden Fall,"ja, als Mentor",ja,9,9,gemeinsame Aktivitäten,zukunftsorientiert
+Sebastian Klein,15,männlich,sebastian.klein@example.com,Tulpenweg 4,86150,Augsburg,Noch kein Abschluss,ja,eher ja,"ja, als Mentee",ja,8,8,neue Menschen kennenzulernen,ermutigend
+Milena Schreiber,19,weiblich,milena.schreiber@example.com,Bismarckstraße 12,55116,Mainz,Fachabitur,nein,auf jeden Fall,"ja, als Mentor",ja,9,10,gemeinsames Lernen,stark
+Dennis Song,17,männlich,dennis.song@example.com,Seestraße 29,68159,Mannheim,Mittlere Reife,ja,eher ja,"ja, als Mentee",ja,8,9,neue Fertigkeiten zu lernen,engagiert
+Anna Wurm,18,weiblich,anna.wurm@example.com,Brunnenweg 10,63065,Offenbach,Abitur,nein,auf jeden Fall,"ja, als Mentor",ja,10,9,gemeinsame Aktivitäten,motivierend
+Jasmin Aksoy,16,weiblich,jasmin.aksoy@example.com,Dorfstraße 5,42103,Wuppertal,Mittlere Reife,ja,auf jeden Fall,"ja, als Mentee",ja,9,9,neue Menschen kennenzulernen,familiär
+Rami Haddad,21,männlich,rami.haddad@example.com,Elbweg 18,22767,Hamburg,Bachelor,nein,eher ja,"ja, als Mentor",nein,7,8,gemeinsames Lernen,spannend
+Franz Peter Wolff,14,männlich,franz.wolff@example.com,Lessingstraße 21,74072,Heilbronn,,,,,,,,,
+Franz Wolff,14,männlich,franz.wolff@example.com,Lessingstraße 21,74072,Heilbronn,Noch kein Abschluss,ja,auf jeden Fall,"ja, als Mentee",ja,10,10,neue Dinge auszuprobieren,ermutigend
+Merle Marx,18,weiblich,merle.marx@example.com,Nordstraße 16,49074,Osnabrück,Fachabitur,nein,eher ja,"ja, als Mentor",ja,8,8,gemeinsame Aktivitäten,hilfreich
+Amina Eisele,17,weiblich,amina.eisele@example.com,Gartenweg 30,34117,Kassel,Mittlere Reife,ja,auf jeden Fall,"ja, als Mentee",ja,9,10,neue Fertigkeiten zu lernen,positiv
+Kaan Cetin,20,männlich,kaan.cetin@example.com,Mauerstraße 9,54290,Trier,Abitur,nein,eher ja,"ja, als Mentor",ja,8,9,gemeinsames Lernen,fördernd
+Sibel Stoll,15,weiblich,sibel.stoll@example.com,Finkenweg 14,93047,Regensburg,Noch kein Abschluss,ja,auf jeden Fall,"ja, als Mentee",ja,10,10,neue Menschen kennenzulernen,warm
+Nihat Toprak,19,männlich,nihat.toprak@example.com,Eichenweg 2,57072,Siegen,Fachabitur,nein,eher ja,"ja, als Mentor",ja,7,8,gemeinsame Aktivitäten,wertvoll
+Rabia Kaya,16,weiblich,rabia.kaya@example.com,Mittelstraße 26,38440,Wolfsburg,Mittlere Reife,ja,auf jeden Fall,"ja, als Mentee",ja,9,9,neue Dinge auszuprobieren,kreativ
+Adem Sari,18,männlich,adem.sari@example.com,Birkenallee 8,66111,Saarbrücken,Abitur,nein,auf jeden Fall,"ja, als Mentor",ja,10,10,gemeinsames Lernen,inspirierend
+Havin Baran,17,divers,havin.baran@example.com,Mozartstraße 17,46045,Oberhausen,Mittlere Reife,ja,eher ja,"ja, als Mentee",nein,8,7,neue Fertigkeiten zu lernen,offen
+Murat Ekinci,20,männlich,murat.ekinci@example.com,Hügelweg 22,76133,Karlsruhe,Bachelor,nein,auf jeden Fall,"ja, als Mentor",ja,9,9,gemeinsame Aktivitäten,gemeinschaftlich
+Elif Ates,15,weiblich,elif.ates@example.com,Uferstraße 1,14467,Potsdam,Noch kein Abschluss,ja,auf jeden Fall,"ja, als Mentee",ja,10,9,neue Menschen kennenzulernen,ermutigend
+Sinan Korkmaz,19,männlich,sinan.korkmaz@example.com,Bachstraße 13,44787,Bochum,Fachabitur,nein,eher ja,nein,nein,6,7,gemeinsame Aktivitäten,okay
+Nesrin Sahin,18,weiblich,nesrin.sahin@example.com,Wiesenweg 7,52062,Aachen,Abitur,ja,auf jeden Fall,"ja, als Mentor",ja,9,10,gemeinsames Lernen,stärkend
+Ilyas Demir,16,männlich,ilyas.demir@example.com,Lerchenweg 19,90429,Nürnberg,Mittlere Reife,ja,eher ja,"ja, als Mentee",ja,8,8,neue Dinge auszuprobieren,Cool
+Melek Güneş,14,weiblich,melek.guenes@example.com,Feldweg 6,28195,Bremen,Noch kein Abschluss,ja,auf jeden Fall,"ja, als Mentee",ja,10,10,neue Fertigkeiten zu lernen,ermutigend
+Tarek Amin,21,männlich,tarek.amin@example.com,Heidestraße 28,45128,Essen,Bachelor,nein,auf jeden Fall,"ja, als Mentor",ja,9,9,gemeinsame Aktivitäten,hilfreich
+Sena Acar,17,weiblich,sena.acar@example.com,Kapellenweg 11,60313,Frankfurt am Main,Mittlere Reife,ja,eher ja,"ja, als Mentee",ja,8,9,neue Menschen kennenzulernen,freundlich
+Furkan Altun,18,männlich,furkan.altun@example.com,Schlossstraße 24,50674,Köln,Abitur,nein,auf jeden Fall,"ja, als Mentor",ja,10,10,gemeinsames Lernen,zukunftsweisend
+Mariam Said,16,weiblich,mariam.said@example.com,Kiefernweg 4,20097,Hamburg,Mittlere Reife,ja,auf jeden Fall,"ja, als Mentee",ja,9,10,neue Dinge auszuprobieren,offen
+Harun Özkan,19,männlich,harun.oezkan@example.com,Nelkenstraße 15,70178,Stuttgart,Fachabitur,nein,eher ja,"ja, als Mentor",ja,8,8,gemeinsame Aktivitäten,interessant
+Aylin Kurt,15,weiblich,aylin.kurt@example.com,Mühlenstraße 2,1069,Dresden,Noch kein Abschluss,ja,auf jeden Fall,"ja, als Mentee",ja,10,9,neue Fertigkeiten zu lernen,stark
+Khaled Noor,20,männlich,khaled.noor@example.com,Südweg 20,4107,Leipzig,Abitur,nein,auf jeden Fall,"ja, als Mentor",ja,9,9,gemeinsames Lernen,ermutigend
+Ece Demir,17,weiblich,ece.demir@example.com,Lindenweg 18,80333,München,Mittlere Reife,ja,eher ja,"ja, als Mentee",ja,8,8,neue Menschen kennenzulernen,motivierend
+Yasin Celik,18,männlich,yasin.celik@example.com,Rathausplatz 5,47057,Duisburg,Abitur,nein,auf jeden Fall,"ja, als Mentor",ja,10,10,gemeinsame Aktivitäten,familiär
+Hans Mayer,14,männlich,hans.mayer@example.com,Alleeweg 9,39108,Magdeburg,Noch kein Abschluss,ja,auf jeden Fall,"ja, als Mentee",ja,9,9,neue Dinge auszuprobieren,kreativ
+Bekir Aslan,21,männlich,bekir.aslan@example.com,Hainstraße 14,79098,Freiburg,Bachelor,nein,eher ja,nein,nein,7,7,gemeinsames Lernen,solide
+Dilan Kaya,16,weiblich,dilan.kaya@example.com,Pappelweg 27,53113,Bonn,Mittlere Reife,ja,auf jeden Fall,"ja, als Mentee",ja,10,10,neue Fertigkeiten zu lernen,ermutigend
+Arda Yildirim,19,männlich,arda.yildirim@example.com,Kastanienweg 3,24105,Kiel,Fachabitur,nein,eher ja,"ja, als Mentor",ja,8,9,gemeinsame Aktivitäten,fördernd
+Hira Polat,17,weiblich,hira.polat@example.com,Talstraße 12,86152,Augsburg,Mittlere Reife,ja,auf jeden Fall,"ja, als Mentee",ja,9,10,neue Menschen kennenzulernen,wertvoll
+Okan Tas,20,männlich,okan.tas@example.com,Steinweg 8,55118,Mainz,Abitur,nein,auf jeden Fall,"ja, als Mentor",ja,10,9,gemeinsames Lernen,inspirierend
+Yelda Mert,15,weiblich,yelda.mert@example.com,Am Markt 1,68161,Mannheim,Noch kein Abschluss,ja,eher ja,"ja, als Mentee",ja,8,8,neue Dinge auszuprobieren,schön
+Kemal Arslan,18,männlich,kemal.arslan@example.com,Fliederweg 6,63067,Offenbach,Fachabitur,nein,auf jeden Fall,"ja, als Mentor",ja,9,9,gemeinsame Aktivitäten,hilfreich
+Selma Öz,16,weiblich,selma.oez@example.com,Buchenweg 17,42105,Wuppertal,Mittlere Reife,ja,auf jeden Fall,"ja, als Mentee",ja,10,10,neue Fertigkeiten zu lernen,ermutigend
+Mahmoud Ali,21,männlich,mahmoud.ali@example.com,Emsweg 21,22765,Hamburg,Bachelor,nein,eher ja,"ja, als Mentor",nein,7,8,gemeinsames Lernen,interessant
+Yannic Kerner,17,männlich,yannic.kerner@example.com,Rosenweg 10,74074,Heilbronn,Mittlere Reife,ja,auf jeden Fall,"ja, als Mentee",ja,9,9,neue Menschen kennenzulernen,offen
+Tuna Yaman,19,männlich,tuna.yaman@example.com,Schulweg 4,49076,Osnabrück,Abitur,nein,eher ja,"ja, als Mentor",ja,8,8,gemeinsame Aktivitäten,motivierend
+Havin Kaya,15,weiblich,havin.kaya@example.com,Parkstraße 15,34119,Kassel,Noch kein Abschluss,ja,auf jeden Fall,"ja, als Mentee",ja,10,10,neue Fertigkeiten zu lernen,stärkend
+Volkan Aydin,20,männlich,volkan.aydin@example.com,Tannenweg 13,54292,Trier,Abitur,nein,auf jeden Fall,"ja, als Mentor",ja,9,9,gemeinsames Lernen,gemeinschaftlich
+Sila Kurt,16,weiblich,sila.kurt@example.com,Rheinweg 7,93049,Regensburg,Mittlere Reife,ja,eher ja,"ja, als Mentee",ja,8,8,neue Dinge auszuprobieren,spannend
+Eren Güler,18,männlich,eren.gueler@example.com,Amselweg 24,57074,Siegen,Fachabitur,nein,auf jeden Fall,"ja, als Mentor",ja,10,9,gemeinsame Aktivitäten,fördernd
+Mina Aslan,17,weiblich,mina.aslan@example.com,Schützenstraße 11,38442,Wolfsburg,Mittlere Reife,ja,auf jeden Fall,"ja, als Mentee",ja,9,10,neue Menschen kennenzulernen,ermutigend
+Halil Topal,21,männlich,halil.topal@example.com,Kanalweg 8,66113,Saarbrücken,Bachelor,nein,eher nein,nein,nein,6,6,gemeinsames Lernen,durchschnittlich
+Berfin Kara,15,weiblich,berfin.kara@example.com,Bergstraße 5,46047,Oberhausen,Noch kein Abschluss,ja,auf jeden Fall,"ja, als Mentee",ja,10,10,neue Fertigkeiten zu lernen,familiär
+Recep Öztürk,19,männlich,recep.oeztuerk@example.com,Hafenstraße 19,76135,Karlsruhe,Fachabitur,nein,eher ja,"ja, als Mentor",ja,8,8,gemeinsame Aktivitäten,hilfreich
+Ilayda Demir,16,weiblich,ilayda.demir@example.com,Waldstraße 14,14471,Potsdam,Mittlere Reife,ja,auf jeden Fall,"ja, als Mentee",ja,9,9,neue Menschen kennenzulernen,ermutigend
+Cem Ates,20,männlich,cem.ates@example.com,Augustweg 3,44789,Bochum,Abitur,nein,auf jeden Fall,"ja, als Mentor",ja,10,10,gemeinsames Lernen,inspirierend
+Meryem Koc,17,weiblich,meryem.koc@example.com,Tulpenstraße 6,52064,Aachen,Mittlere Reife,ja,eher ja,"ja, als Mentee",ja,8,9,neue Dinge auszuprobieren,SCHÖN
+Baran Celik,18,männlich,baran.celik@example.com,Sonnenweg 27,90431,Nürnberg,Abitur,nein,auf jeden Fall,"ja, als Mentor",ja,9,9,gemeinsame Aktivitäten,wertvoll
+Asya Sahin,14,weiblich,asya.sahin@example.com,Moorweg 9,28197,Bremen,Noch kein Abschluss,ja,auf jeden Fall,"ja, als Mentee",ja,10,10,neue Fertigkeiten zu lernen,ermutigend
+Nuri Kaplan,21,männlich,nuri.kaplan@example.com,Kaiserstraße 2,45130,Essen,Bachelor,nein,eher ja,nein,nein,7,8,gemeinsames Lernen,interessant
+Murat Yildiz,16,männlich,murat.yildiz@example.com,Birkenstraße 12,60316,Frankfurt am Main,Mittlere Reife,ja,auf jeden Fall,"ja, als Mentee",ja,9,9,neue Menschen kennenzulernen,motivierend
+Mikail Acar,19,männlich,mikail.acar@example.com,Südallee 18,50676,Köln,Fachabitur,nein,auf jeden Fall,"ja, als Mentor",ja,10,9,gemeinsame Aktivitäten,gemeinschaftlich
+Helin Demir,15,weiblich,helin.demir@example.com,Rosenallee 4,20099,Hamburg,Noch kein Abschluss,ja,eher ja,"ja, als Mentee",ja,8,8,neue Dinge auszuprobieren,cool
+Mina Özdemir,17,weiblich,mina.oezdemir@example.com,Lindenstraße 9,50667,Köln,Mittlere Reife,ja,eher ja,"ja, als Mentee",nein,8,8,neue Dinge auszuprobieren,spannend
+Batuhan Kaya,20,männlich,batuhan.kaya@example.com,Mühlenallee 7,70180,Stuttgart,Abitur,nein,auf jeden Fall,"ja, als Mentor",ja,9,10,gemeinsames Lernen,fördernd
+Eylül Tas,17,weiblich,eyluel.tas@example.com,Kornweg 11,1097,Dresden,Mittlere Reife,ja,auf jeden Fall,"ja, als Mentee",ja,10,10,neue Fertigkeiten zu lernen,warm
+Anas Rahman,18,männlich,anas.rahman@example.com,Ringweg 23,4155,Leipzig,Fachabitur,nein,eher ja,"ja, als Mentor",ja,8,8,gemeinsame Aktivitäten,hilfreich
+Lavin Aksoy,16,weiblich,lavin.aksoy@example.com,Burgstraße 14,80335,München,Mittlere Reife,ja,auf jeden Fall,"ja, als Mentee",ja,9,9,neue Menschen kennenzulernen,ermutigend
+Kadir Mert,21,männlich,kadir.mert@example.com,Eichenallee 19,47058,Duisburg,Bachelor,nein,auf jeden Fall,"ja, als Mentor",ja,10,9,gemeinsames Lernen,zukunftsweisend
+Sena Özkan,15,weiblich,sena.oezkan@example.com,Feldallee 1,39110,Magdeburg,Noch kein Abschluss,ja,auf jeden Fall,"ja, als Mentee",ja,9,10,neue Dinge auszuprobieren,stärkend
+Orhan Duran,19,männlich,orhan.duran@example.com,Nordallee 16,79099,Freiburg,Abitur,nein,eher ja,"ja, als Mentor",ja,8,8,gemeinsame Aktivitäten,wertvoll
+Nisa Polat,17,weiblich,nisa.polat@example.com,Uferweg 9,53115,Bonn,Mittlere Reife,ja,auf jeden Fall,"ja, als Mentee",ja,10,10,neue Fertigkeiten zu lernen,ermutigend
+Talha Arik,18,männlich,talha.arik@example.com,Fichtenweg 22,24106,Kiel,Fachabitur,nein,auf jeden Fall,"ja, als Mentor",ja,9,9,gemeinsames Lernen,inspirierend
+Elvan Yaman,16,weiblich,elvan.yaman@example.com,Lilienstraße 5,86154,Augsburg,Mittlere Reife,ja,eher ja,"ja, als Mentee",ja,8,9,neue Menschen kennenzulernen,offen
+Mesut Korkmaz,20,männlich,mesut.korkmaz@example.com,Querstraße 3,55120,Mainz,Abitur,nein,auf jeden Fall,"ja, als Mentor",ja,10,10,gemeinsame Aktivitäten,fördernd
+Dila Noor,15,weiblich,dila.noor@example.com,Torgasse 7,68163,Mannheim,Noch kein Abschluss,ja,auf jeden Fall,"ja, als Mentee",ja,9,10,neue Fertigkeiten zu lernen,motivierend
+Serhat Aslan,21,männlich,serhat.aslan@example.com,Wasserweg 12,63069,Offenbach,Bachelor,nein,eher ja,nein,nein,7,7,gemeinsames Lernen,okay
+Yaren Cetin,17,weiblich,yaren.cetin@example.com,Schillerallee 20,42107,Wuppertal,Mittlere Reife,ja,auf jeden Fall,"ja, als Mentee",ja,10,9,neue Menschen kennenzulernen,Ermutigend
+Musa Demir,18,männlich,musa.demir@example.com,Parkweg 8,22769,Hamburg,Fachabitur,nein,auf jeden Fall,"ja, als Mentor",ja,9,9,gemeinsame Aktivitäten,familiär
+Aleyna Sahin,16,weiblich,aleyna.sahin@example.com,Kastanienallee 15,74076,Heilbronn,Mittlere Reife,ja,eher ja,"ja, als Mentee",ja,8,8,neue Dinge auszuprobieren,schön
+Yavuz Kara,19,männlich,yavuz.kara@example.com,Morgenweg 6,49078,Osnabrück,Abitur,nein,auf jeden Fall,"ja, als Mentor",ja,10,10,gemeinsames Lernen,hilfreich
+Rabia Demir,15,weiblich,rabia.demir@example.com,Weststraße 2,34121,Kassel,Noch kein Abschluss,ja,auf jeden Fall,"ja, als Mentee",ja,9,9,neue Fertigkeiten zu lernen,ermutigend
+Onur Aydin,20,männlich,onur.aydin@example.com,Lindenallee 17,54294,Trier,Abitur,nein,eher ja,"ja, als Mentor",ja,8,8,gemeinsame Aktivitäten,positiv
+Ceren Tas,17,weiblich,ceren.tas@example.com,Bahnhofsweg 13,93051,Regensburg,Mittlere Reife,ja,auf jeden Fall,"ja, als Mentee",ja,10,10,neue Menschen kennenzulernen,inspirierend
+Emre Yildirim,21,männlich,emre.yildirim@example.com,Kirchstraße 4,57076,Siegen,Bachelor,nein,auf jeden Fall,"ja, als Mentor",ja,9,9,gemeinsames Lernen,zukunftsorientiert
+Maja B.,20,weiblich,maja.biene@example.com,Kirchweg 25,24103,Kiel,Abitur,nein,auf jeden Fall,"ja, als Mentor",ja,9,9,gemeinsame Aktivitäten,zukunftsorientiert
